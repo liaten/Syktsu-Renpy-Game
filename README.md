@@ -1,0 +1,2 @@
+# Syktsu Renpy Game
+ 
