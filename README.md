@@ -1,1 +1,2 @@
 # Syktsu Renpy Game
+Привет
