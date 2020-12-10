@@ -1,2 +1,1 @@
-# Syktsu Renpy Game
-Привет
+asdsdfsadfsdaf
