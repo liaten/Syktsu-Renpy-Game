@@ -1,1 +1,1 @@
-asdsdfsadfsdaf
+Проверка связи
